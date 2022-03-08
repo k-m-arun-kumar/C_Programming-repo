@@ -28,7 +28,7 @@ Till present, I just shared my works that I used as the learning path and practi
        
 My Thanks and Tribute :
 ========================
-I thank to all those, for their support or helped, to me and my family. My tribute to my Parents, Sister and Family, Grandparents, Dears, Teachers, Guidance (including GitHub, Toolchains & my reference), Friends, Nation, Farmers, Workers, defense force personnels and their family, those with good spirits, those involve in social service, those contribute in open source and/or freeware, Nature, Jimmy Dog and all those, who directly or indirectly helped me and/or my family. 
+I thank to all those, for their support or helped, to me and my family. My tribute to my Parents, Sister and Family, Grandparents, Dears, Teachers, Guidance (including GitHub, Toolchains & my reference), Friends, Nation, Farmers, Workers, Nation's freedom fighters, defence force personnels and their family, those with good spirits, those involve in social service, those contribute in open source and/or freeware, Nature, Jimmy Dog and all those, who directly or indirectly helped me and/or my family. 
 
 Toolchains that I used for C Application design and development are as follows :
 ==================================================================================
